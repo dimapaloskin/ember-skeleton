@@ -1,0 +1,9 @@
+{
+  "name": "your-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "ember": "1.7.0-beta.2",
+    "qunit": "~1.14.0",
+    "ember-qunit": "~0.1.8"
+  }
+}
