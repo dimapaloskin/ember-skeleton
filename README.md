@@ -13,7 +13,7 @@ Dependent on:
 
 ###Conventions
 
-The input javascript file located in the `'packages/lib'` folder. Other files are included using directive `'require'`. The input less file located in 'packages/less' and his called `'main.less'`. Files for test must be located in `'packages/test'` folder and must have the prefix `'-test.js'` on the end. All handlebars templates located in the `'packages/templates'` folder.
+The input javascript file located in the `'packages/lib'` folder. Other files are included using directive `'require'`. The input less file located in 'packages/less' and his called `'main.less'`. Files for test must be located in `'packages/test'` folder and must have the prefix `'-test.js'` on the end. All handlebars templates located in the `'packages/templates'` folder. All templates builds in `'packages/lib/templates.js'`.
 
 ###Get started
 
