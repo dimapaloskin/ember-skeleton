@@ -32,6 +32,10 @@ Change `package.json` and `bower.json` files.
     
 Visit your app at http://localhost:8000/tests
 
+**Testing**
+
+    grunt test
+
 **Building**
 
     grunt build
